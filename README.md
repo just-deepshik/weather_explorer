@@ -1,6 +1,6 @@
-# Weather Explorer (Python Tkinter Weather App using OpenWeather API)
+# Weather Explorer 
 
-Weather Explorer is a Python desktop application that provides real-time weather information for any city.
+Weather Explorer is a Python Tinkter desktop application that provides real-time weather information for any city using OpenWeathermap API
 
 ## Features
 - Real-time weather data
