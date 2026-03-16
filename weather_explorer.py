@@ -82,7 +82,7 @@ def on_exit():
 
 # API details
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather?"
-API_KEY = "ff7c4b4151f37028fdcc20cf412b9f56"
+API_KEY = "YOUR_API_KEY_HERE"
 
 
 # GUI Window
